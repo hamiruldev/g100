@@ -1,0 +1,54 @@
+2022-01-01T08:24:43+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:46
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 46
+
+2022-01-01T08:24:48+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:52
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 52
+
+2022-01-01T08:24:54+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:52
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 52
+
+2022-01-01T08:24:56+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:46
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 46
+
+2022-01-01T08:45:42+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:52
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 52
+
+2022-01-01T08:45:50+00:00 CRITICAL Uncaught Error: Call to undefined function mb_strtolower() in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php:46
+Stack trace:
+#0 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(303): affwp_search_users('')
+#1 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#2 /home/tripleon/fabulous.tripleonestudio.com/wp-includes/plugin.php(470): WP_Hook->do_action(Array)
+#3 /home/tripleon/fabulous.tripleonestudio.com/wp-admin/admin-ajax.php(187): do_action('wp_ajax_affwp_s...')
+#4 {main}
+  thrown in /home/tripleon/fabulous.tripleonestudio.com/wp-content/plugins/affiliate-wp/includes/admin/ajax-actions.php on line 46
+

@@ -1,0 +1,1 @@
+<?php return array('dependencies' => array('affwp-portal-portal-form', 'wp-polyfill'), 'version' => '6fc42c0ea53644e62a4077941ccd0f77');
